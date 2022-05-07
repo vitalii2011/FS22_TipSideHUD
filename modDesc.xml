@@ -7,7 +7,8 @@
 
     <title>
         <de>Abkippseiten HUD</de>
-		<en>Tip Side HUD</en>
+        <en>Tip Side HUD</en>
+        <ru>Значок стороны выгрузки</ru>
 	</title>
 
 	<iconFilename>modIcon.dds</iconFilename>
@@ -107,102 +108,127 @@ Changelog:
 		<text name="input_tsd_toggleConfig">
 			<de>AbkippHUD: Konfiguration</de>
 			<en>TipSideHUD: Configuration</en>
+			<ru>Значок выгрузки: Настройки</ru>
 		</text>
 		<text name="input_tsd_upConfig">
 			<de>AbkippHUD: Menüpunkt rauf</de>
 			<en>TipSideHUD: Menu up</en>
+			<ru>Значок выгрузки: Вверх по меню</ru>
 		</text>	
 		<text name="input_tsd_downConfig">
 			<de>AbkippHUD: Menüpunkt runter</de>
 			<en>TipSideHUD: Menu down</en>
+			<ru>Значок выгрузки: Вниз по меню</ru>
 		</text>	
 		<text name="input_tsd_changeConfig">
 			<de>AbkippHUD: Ändern</de>
 			<en>TipSideHUD: Change</en>
+			<ru>Значок выгрузки: Изменить</ru>
 		</text>			
 		<text name="conf_heading">
 			<de>TipSideHud Konfiguration</de>
 			<en>TipSideHud Configuration</en>
+			<ru>Настройки Значка стороны выгрузки</ru>
 		</text>		
 		<text name="PositionIndex">
 			<de>Position ändern</de>
 			<en>Change position</en>
+			<ru>Размещение</ru>
 		</text>
 		<text name="ColorIndex">
 			<de>Farbe ändern</de>
 			<en>Change color</en>
+			<ru>Цвет</ru>
 		</text>
 		<text name="IconSetIndex">
 			<de>Icons</de>
 			<en>Icons</en>
+			<ru>Значки</ru>
 		</text>
 		<text name="ShowText">
 			<de>Text anzeigen</de>
 			<en>Show text</en>
+			<ru>Показывать текст</ru>
 		</text>
 		<text name="Scaling">
 			<de>Größenskalierung</de>
 			<en>Size scaling</en>
+			<ru>Размер</ru>
 		</text>
 		<text name="col_white">
 			<de>Weiss</de>
 			<en>White</en>
+			<ru>Белый</ru>
 		</text>
 		<text name="col_black">
 			<de>Schwarz</de>
 			<en>Black</en>
+			<ru>Чёрный</ru>
 		</text>
 		<text name="col_grey">
 			<de>Grau</de>
 			<en>Grey</en>
+			<ru>Серый</ru>
 		</text>
 		<text name="col_blue">
 			<de>Blau</de>
 			<en>Blue</en>
+			<ru>Синий</ru>
 		</text>
 		<text name="col_red">
 			<de>Rot</de>
 			<en>Red</en>
+			<ru>Красный</ru>
 		</text>
 		<text name="col_green">
 			<de>Grün</de>
 			<en>Green</en>
+			<ru>Зелёный</ru>
 		</text>
 		<text name="col_yellow">
 			<de>Gelb</de>
 			<en>Yellow</en>
+			<ru>Жёлтый</ru>
 		</text>
 		<text name="col_pink">
 			<de>Pink</de>
 			<en>Pink</en>
+			<ru>Розовый</ru>
 		</text>
 		<text name="col_turquoise">
 			<de>Türkis</de>
 			<en>Turquoise</en>
+			<ru>Бирюзовый</ru>
 		</text>
 		<text name="col_brown">
 			<de>Braun</de>
 			<en>Brown</en>
+			<ru>Коричневый</ru>
 		</text>
 		<text name="pos1">
 			<de>Unterhalb des Früchte HUD</de>
 			<en>Below the fruit HUD</en>
+			<ru>Под fruit HUD</ru>
 		</text>
 		<text name="pos2">
 			<de>Neben dem Fahrzeugschema</de>
 			<en>Next to the vehicle schema</en>
+			<ru>Рядом со схемой транспорта</ru>
 		</text>
 		<text name="pos3">
 			<de>Links neben dem Wetter Icon</de>
 			<en>Left to the weather icon</en>
+			<ru>Слева от иконки Погоды</ru>
 		</text>
 		<text name="pos4">
 			<de>Oben zentriert</de>
 			<en>Top centered</en>
+			<ru>По центру сверху</ru>
 		</text>
 		<text name="pos5">
 			<de>Unten zentriert</de>
 			<en>Bottom centered</en>
+			<ru>По центру внизу</ru>
 		</text>
 	</l10n>
 
